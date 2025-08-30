@@ -44,11 +44,12 @@ Research-oriented Data Scientist with a solid foundation in **AI, ML, and NLP**,
 
 ## 💼 Work Experience
 **Teaching Assistant (TA), BUBT**  
-📅 Jan 2025 – Present | Duration: 8 months  
-- Conducted lectures and labs on:  
+📅 Jan 2025 – Present | Duration: 9 months  
+- Conducted lectures and labs on:
+  - Machine Learning (ML)   
   - Object-Oriented Programming (C++)  
   - Advanced Programming (Java)  
-  - Machine Learning (ML)  
+  
 
 ---
 
@@ -83,9 +84,9 @@ Research-oriented Data Scientist with a solid foundation in **AI, ML, and NLP**,
 ---
 
 ## 🏆 Awards & Achievements
-- 🥈 **2nd Prize – IoT Project Showcase, BUBT (2024)**  
-- 🎖 **30th Rank (Bangladesh) – ITEE, Japan (2024)** among ~600,000 applicants  
-- 🏅 **5th Place – Intra-University Competitive Programming Contest (BUBT)**  
+- 🎖 **30th Rank (Bangladesh) – ITEE, Japan (2024)** among ~600,000 applicants 
+- 🥈 **2nd Prize – IoT Project Showcase, BUBT (2023)**   
+- 🏅 **5th Place – Senior Intra-University Competitive Programming Contest (BUBT)**  
 
 ---
 
