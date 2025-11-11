@@ -44,16 +44,22 @@ Research-oriented Data Scientist with a solid foundation in **AI, ML, and NLP**,
 
 ## 💼 Work Experience
 **Teaching Assistant (TA), BUBT**  
-📅 Jan 2025 – Present | Duration: 9 months  
+📅 Jan 2025 – Present   
 - Conducted lectures and labs on:
   - Machine Learning (ML)   
   - Object-Oriented Programming (C++)  
   - Advanced Programming (Java)  
-  
+
+**Full Stack Pyrhon Web Developer, Abedin Tech**  
+📅 Septembor 2025 – Present  
+Key AI & Automation Projects:
+ - CRM Reminder Integration with DocuSign – Automated client follow-ups and document signing reminders via AI-powered workflow.
+ - SocialSync AI – Developed an AI-driven social media scheduling and automation platform that auto-generates platform-specific captions for Facebook, Instagram, Twitter, and LinkedIn.
+ - AI Receptionist System – Built an intelligent virtual receptionist to handle customer queries, appointment booking, and lead forwarding across multiple channels.
 
 ---
 
-## 🚀 Projects
+## 🚀Personal Projects
 - **[🐾 Animal Image Classification Using CNN](https://github.com/Arifuzzaman-Swapnil/Animal-Classification-WebSite)**  
   Custom dataset of 30 animal classes (3,000 images), achieved **99% accuracy**, deployed via Flask web app.  
 
