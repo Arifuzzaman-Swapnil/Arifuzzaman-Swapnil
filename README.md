@@ -51,7 +51,7 @@ Research-oriented Data Scientist with a solid foundation in **AI, ML, and NLP**,
   - Advanced Programming (Java)  
 
 **Full Stack Web Developer, Abedin Tech**  
-📅 September 2025 – Present  
+📅 February, 2025 – Present  
 Key AI & Automation Projects:
  - CRM Reminder Integration with DocuSign – Automated client follow-ups and document signing reminders via AI-powered workflow.
  - SocialSync AI – Developed an AI-driven social media scheduling and automation platform that auto-generates platform-specific captions for Facebook, Instagram, Twitter, and LinkedIn.
