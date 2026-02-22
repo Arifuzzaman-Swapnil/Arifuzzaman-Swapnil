@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👨‍💻 Md Arifuzzaman Swapnil
-*Data Scientist | AI Engineer | NLP Researcher*
+*Backend AI Engineer | Full Stack Python Web Developer*
 
 📍 Ibrahimpur, Dhaka  
 📧 md.arifuzzamanswapnil@gmail.com  
