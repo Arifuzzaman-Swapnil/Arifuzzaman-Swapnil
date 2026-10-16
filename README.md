@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="banner.png" alt="Md Arifuzzaman Swapnil — Backend AI Engineer" width="100%"/>
-</p>
-
 <div align="center">
+
+<img src="banner.png" alt="Md Arifuzzaman Swapnil — Backend AI Engineer" width="100%"/>
 
 <a href="https://md-arifuzzaman-swapnil.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+AI+Engineer+%40+Intelleqt+AI;Production+RAG+Pipelines+%26+LLM+Apps;Django+%7C+FastAPI+%7C+Celery+%7C+Redis;I+don't+just+write+code+%E2%80%94+I+build+systems+that+think." alt="Typing SVG" />
@@ -93,32 +91,17 @@
 
 <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,laravel,redis,postman&perline=10" alt="Backend"/>
 <br>
-<img src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 **AI / LLM Engineering**
 
-<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
-<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-2F81F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-2F81F7?style=flat-square"/>
 
 **ML & Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="ML"/>
 <br>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square"/>
 
 **Frontend**
 
@@ -132,18 +115,11 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,githubactions,git,github,vscode&perline=10" alt="Cloud & Tools"/>
 <br>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 
 **Automation**
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flowise-1E1E1E?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangFlow-7B3FE4?style=flat-square"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/> <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/> <img src="https://img.shields.io/badge/Flowise-1E1E1E?style=flat-square"/> <img src="https://img.shields.io/badge/LangFlow-7B3FE4?style=flat-square"/>
 
 ---
 
