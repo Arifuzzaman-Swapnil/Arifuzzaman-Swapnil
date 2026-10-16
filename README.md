@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Md Arifuzzaman Swapnil — Backend AI Engineer" width="100%"/>
+  <img src="banner.png" alt="Md Arifuzzaman Swapnil — Backend AI Engineer" width="100%"/>
 </p>
 
 <div align="center">
-
-# Hi, I'm Md Arifuzzaman Swapnil
 
 <a href="https://md-arifuzzaman-swapnil.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+AI+Engineer+%40+Intelleqt+AI;Production+RAG+Pipelines+%26+LLM+Apps;Django+%7C+FastAPI+%7C+Celery+%7C+Redis;I+don't+just+write+code+%E2%80%94+I+build+systems+that+think." alt="Typing SVG" />
